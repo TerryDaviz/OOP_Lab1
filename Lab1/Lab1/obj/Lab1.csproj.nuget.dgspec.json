@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ilya\\Desktop\\lab\\C#\\Lab1\\Lab1\\Lab1.csproj": {}
+    "C:\\Users\\Ilya\\Desktop\\lab\\C#\\OOP_Lab1\\Lab1\\Lab1\\Lab1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ilya\\Desktop\\lab\\C#\\Lab1\\Lab1\\Lab1.csproj": {
+    "C:\\Users\\Ilya\\Desktop\\lab\\C#\\OOP_Lab1\\Lab1\\Lab1\\Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ilya\\Desktop\\lab\\C#\\Lab1\\Lab1\\Lab1.csproj",
+        "projectUniqueName": "C:\\Users\\Ilya\\Desktop\\lab\\C#\\OOP_Lab1\\Lab1\\Lab1\\Lab1.csproj",
         "projectName": "Lab1",
-        "projectPath": "C:\\Users\\Ilya\\Desktop\\lab\\C#\\Lab1\\Lab1\\Lab1.csproj",
+        "projectPath": "C:\\Users\\Ilya\\Desktop\\lab\\C#\\OOP_Lab1\\Lab1\\Lab1\\Lab1.csproj",
         "packagesPath": "C:\\Users\\Ilya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ilya\\Desktop\\lab\\C#\\Lab1\\Lab1\\obj\\",
+        "outputPath": "C:\\Users\\Ilya\\Desktop\\lab\\C#\\OOP_Lab1\\Lab1\\Lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ilya\\AppData\\Roaming\\NuGet\\NuGet.Config",
