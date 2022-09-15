@@ -12,3 +12,17 @@ C:\Users\Ilya\Desktop\lab\C#\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
 C:\Users\Ilya\Desktop\lab\C#\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
 C:\Users\Ilya\Desktop\lab\C#\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
 C:\Users\Ilya\Desktop\lab\C#\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.AssemblyReference.cache
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
