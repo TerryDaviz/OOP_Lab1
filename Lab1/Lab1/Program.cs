@@ -62,8 +62,8 @@ namespace Lab1
             int? var2 = null;
             ////=======================f============================
             int var3 = 15;
-            ////strings:a
 
+            //strings:a
             string str1 = "hto ya";
             string str2 = "dadaya";
             Console.WriteLine("Strings comparison:" + str1 == str2);
@@ -82,7 +82,7 @@ namespace Lab1
             }
             Console.WriteLine("\nInsert: " + str1.Insert(str2.Length, str3));
             Console.WriteLine("\nRemove:" + str1.Remove(11));
-            Console.WriteLine("Interpolarion:");
+            Console.WriteLine("Interpolation:");
             Console.WriteLine($"First string is :{str1}");
             //stings:c
             string emptyString = "";
